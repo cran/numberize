@@ -1,0 +1,16 @@
+a021d516f453be91e8f6d5d495c3ae1e *DESCRIPTION
+91524ced17e093b1a82a5cd5f8b8e7f5 *LICENSE
+27a106fbaa66f807b22ccbfaf1f5ef45 *NAMESPACE
+f315d36089adbf2c8f4437c5fe8ffc2e *NEWS.md
+e36deaf5c1294560ed75c5529fcbe5e1 *R/numberize.R
+ccb2b80c305296747852d8c6eddef66b *README.md
+990be70a2f3fb9b5f6d5d657b6fd4157 *inst/WORDLIST
+8ed1aa58ff7a33172f263873d5b8301f *man/digits_from.Rd
+a67ad31a6e018c4a941c71453ad92a88 *man/dot-numberize.Rd
+48214cabe54e4fe7aebea052fb8aa058 *man/figures/logo.svg
+34bf7c33be33bab103546963da358fb0 *man/number_from.Rd
+b0960c1a39ce814f1d40cfb8acc80ee2 *man/numberize.Rd
+face3774330effba161f9cfd99e37148 *tests/spelling.R
+c15ca34af42e4030d0f1a5f7e225007d *tests/testthat.R
+c5bdb0e2f45be0eee1b160823bee7da9 *tests/testthat/setup-options.R
+c12ee8826a06f6fcb02c2ab9b1815548 *tests/testthat/test-numberize.R
