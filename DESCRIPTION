@@ -1,6 +1,6 @@
 Package: numberize
 Title: Convert Words to Numbers in Multiple Languages
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
     person("Chris", "Hartgerink", , "chris@libscie.org", role = "rev",
            comment = c(ORCID = "0000-0003-1050-6809")),
@@ -31,7 +31,7 @@ Encoding: UTF-8
 Language: en-US
 RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-06-10 18:28:47 UTC; bahadzie
+Packaged: 2024-10-28 20:29:00 UTC; bahadzie
 Author: Chris Hartgerink [rev] (<https://orcid.org/0000-0003-1050-6809>),
   Joshua W. Lambert [ctb] (<https://orcid.org/0000-0001-5218-3046>),
   Karim Mané [ctb] (<https://orcid.org/0000-0002-9892-2999>),
@@ -39,4 +39,4 @@ Author: Chris Hartgerink [rev] (<https://orcid.org/0000-0003-1050-6809>),
   Bankole Ahadzie [aut, cre, cph]
 Maintainer: Bankole Ahadzie <bankole.ahadzie@lshtm.ac.uk>
 Repository: CRAN
-Date/Publication: 2024-06-11 12:30:06 UTC
+Date/Publication: 2024-10-28 20:50:02 UTC
